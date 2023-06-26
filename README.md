@@ -9,3 +9,5 @@
 2. Проверить сайт на ошибки.
 
 3. - Разместить сайт в сети интернет.
+
+# Ссылка на githubpages: https://romanmenshikov92.github.io/GB_HTML-CSS_hw10/
